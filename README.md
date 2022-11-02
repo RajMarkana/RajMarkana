@@ -6,12 +6,16 @@ Web Developer & Graphic Designer
 
 I've been Learning code for 3 Years and I've Skills like Web Development, Graphic Designing, and Cyber Security.
 
-*   🌍  I'm based in India
-*   🖥️  See my portfolio at [My Portfolio -RTechCode](http://rtechcode.rf.gd)
-*   ✉️  You can contact me at [rtechcode101@gmail.com](mailto:rtechcode101@gmail.com)
-*   🚀  I'm currently working on [Socient](http://dev-socient.pantheonsite.io/)
-*   🧠  I'm learning Python
-*   🤝  I'm open to collaborating on Web Development and Wordpress### Skills 
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [My Portfolio -RTechCode](http://rtechcode.rf.gd)
+* ✉️  You can contact me at [rtechcode101@gmail.com](mailto:rtechcode101@gmail.com)
+* 🚀  I'm currently working on [Socient](http://dev-socient.pantheonsite.io/)
+* 🧠  I'm learning Python
+* 🤝  I'm open to collaborating on Web Development and Wordpress
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -31,16 +35,22 @@ I've been Learning code for 3 Years and I've Skills like Web Development, Graphi
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/RajMarkana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/raj._.markana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/rajmarkana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/RajMarkana"><img src="https://github-readme-stats.vercel.app/api?username=RajMarkana&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RajMarkana's GitHub stats" /></a><a
-                      href="http://www.github.com/RajMarkana"><img src="https://activity-graph.herokuapp.com/graph?username=RajMarkana&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/RajMarkana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajMarkana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/RajMarkana/picsave" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RajMarkana&repo=picsave&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/RajMarkana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/raj._.markana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rajmarkana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/RajMarkana"><img src="https://github-readme-stats.vercel.app/api?username=RajMarkana&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RajMarkana's GitHub stats" /></a>
+
+<a href="http://www.github.com/RajMarkana"><img src="https://activity-graph.herokuapp.com/graph?username=RajMarkana&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/RajMarkana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajMarkana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/RajMarkana/picsave" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RajMarkana&repo=picsave&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
