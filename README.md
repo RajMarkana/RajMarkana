@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj Markana
 ===================================================================================================================================
 
-Web Developer & Graphic Designer
+Web Developer || Android Developer || Graphic Designer
 --------------------------------
 
-I've been Learning code for 3 Years and I've Skills like Web Development, Graphic Designing, and Cyber Security.
+I've been Learning code for 3 Years and I've Skills like Web Development, Android Development & Graphic Designing.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio -RTechCode](http://rtechcode.rf.gd)
