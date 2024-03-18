@@ -9,8 +9,8 @@ I've been Learning code for 3 Years and I've Skills like Web Development, Androi
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio -RTechCode](http://rtechcode.rf.gd)
 * ✉️  You can contact me at [rtechcode101@gmail.com](mailto:rtechcode101@gmail.com)
-* 🚀  I'm currently working on [Socient](http://dev-socient.pantheonsite.io/)
-* 🧠  I'm learning Python
+* 🚀  I'm currently working on Charusat E-Connect
+* 🧠  I'm learning MERN STACK
 * 🤝  I'm open to collaborating on Web Development and Wordpress
 
 ### Skills
