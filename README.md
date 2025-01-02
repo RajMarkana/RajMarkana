@@ -36,7 +36,6 @@ I've been Learning code for 3 Years and I've Skills like Web Development, Androi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<a href="https://app.daily.dev/rajmarkana"><img src="https://api.daily.dev/devcards/v2/pBQKUQz1eTqX5Sy9sJH0T.png?type=wide&r=9ns" width="652" alt="Raj Markana's Dev Card"/></a>
 
 ### Socials
 
