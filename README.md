@@ -9,9 +9,9 @@ I've been Learning code for 3 Years and I've Skills like Web Development, Androi
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio -RTechCode](http://rtechcode.rf.gd)
 * ✉️  You can contact me at [rtechcode101@gmail.com](mailto:rtechcode101@gmail.com)
-* 🚀  I'm currently working on Charusat E-Connect
-* 🧠  I'm learning MERN STACK
-* 🤝  I'm open to collaborating on Web Development and Wordpress
+* 🚀  I'm currently working on Personal AI
+* 🧠  I'm learning AI
+* 🤝  I'm open to collaborating on Web Development and AI Developement
 
 ### Skills
 
@@ -39,7 +39,7 @@ I've been Learning code for 3 Years and I've Skills like Web Development, Androi
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RajMarkana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/raj._.markana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rajmarkana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/RajMarkana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rajmarkana13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rajmarkana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
