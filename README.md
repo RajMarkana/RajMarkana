@@ -7,7 +7,7 @@ Web Developer ● Android Developer ● Graphic Designer
 I've been Learning code for 3 Years and I've Skills like Web Development, Android Development & Graphic Designing.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio -RTechCode](http://rtechcode.rf.gd)
+* 🖥️  See my portfolio at [My Portfolio](http://rajmarkana.rf.gd)
 * ✉️  You can contact me at [rtechcode101@gmail.com](mailto:rtechcode101@gmail.com)
 * 🚀  I'm currently working on Personal AI
 * 🧠  I'm learning AI
