@@ -138,22 +138,6 @@ One of my earlier public builds.
 
 ---
 
-## ⚙️ How I Build Automation
-
-```mermaid
-flowchart LR
-    A([Trigger<br/>Form · Webhook · Schedule]) --> B[Ingest &<br/>Validate]
-    B --> C{AI Layer<br/>Classify · Summarize · Generate}
-    C --> D[Business Logic<br/>& Routing]
-    D --> E[(CRM · Database<br/>· Sheets)]
-    D --> F([Notify<br/>Email · Slack · WhatsApp])
-    D -. errors .-> G[[Retry &<br/>Alerting]]
-```
-
-Every workflow I deliver is built with **error handling, retries, logging and clear documentation**, so it keeps running after handover.
-
----
-
 ## 💼 Engagements
 
 | | Service | Typical outcome |
